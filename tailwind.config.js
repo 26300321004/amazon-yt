@@ -22,8 +22,8 @@ module.exports = {
 
       },
       colors:{
-        amazon_blue:"#f96755",
-        amazon_light:"#fa3f28",
+        amazon_blue:"#58ccdf",
+        amazon_light:" #c0212f ",
         amazon_yellow:"#febd69",
         whiteText:"#ff3737",
         quantity_box:"#F0F2F2",

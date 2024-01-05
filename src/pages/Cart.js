@@ -36,7 +36,7 @@ useEffect(()=>{
                 key={item.id}
                 className="w-full border-b-[1px] border-b-gray-300 p-4 flex item-center gap-6"
               >
-                <div className="w-2/5  ">
+                <div className="w-50%  ">
                   <img
                     className="mdl:w-full   h-44 object-contain "
                     src={item.image}
